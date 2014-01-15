@@ -91,3 +91,4 @@ function islandora_test_cm_islandora_content_model_forms_form_associations() {
     ),
   );
 }
+

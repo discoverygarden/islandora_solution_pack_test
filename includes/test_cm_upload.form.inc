@@ -72,3 +72,4 @@ function islandora_test_cm_upload_form_submit(array $form, array &$form_state) {
   $ds->label = "Thumbnail image";
   $ds->mimetype = "image/jpeg";
 }
+
